@@ -64,3 +64,94 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/*And IT BEGINS*/
+
+body{
+	padding: 2% 3%;
+}
+footer{
+	text-align: center;
+	padding: 2% 40%;
+}
+.RH{
+	text-align: center;
+	padding: 2% 1% 5%;
+}
+.navigation{
+	display:inline-block;
+}
+nav{
+	width: 79%;
+}
+nav a{
+	display:inline-block;
+	padding: 0 4.6%;
+	color: gray;
+	text-decoration: none;
+}
+nav a:hover{
+	color:black;
+	text-decoration: none;
+}
+.logo{
+	width:20%;
+	padding-left: 4%;
+}
+#service{
+	padding-left: 0%;
+	padding-right: 4.6%;
+}
+.bigheader{
+	display:inline-block;
+}
+.bhls{
+	width: 50%;
+    text-align: center;
+    vertical-align: middle;
+    transform: translateY(-73%);
+}
+header img{
+	padding: 0% 1%;
+}
+header h1{
+	font-size: 60px;
+}
+header{
+	height: 400px;
+}
+div.part1stack{
+	display:inline-block;
+	width: 47%;
+	margin: 1%;
+	/*border:solid red 1px;*/
+}
+.images{
+	margin: 3% auto;
+	text-align: center;
+}
+.bottompart{
+	display:inline-block;
+	width: 31%;
+    margin: 1%;
+}
+.mainbody{
+	margin: 4% 0%;
+	border-bottom: solid 1.5px black;
+	border-top: solid 1.5px black;
+	padding-top: 4%;
+    padding-bottom: 4%;
+}
+button{
+	background-color: #fdffff;
+	color:black;
+	border:1px solid black;
+	padding: 1% 6%;
+}
+button:hover{
+	background-color: black;
+	color:#fdffff;
+	padding: 1% 6%;
+}
+
+
+
